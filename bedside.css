@@ -2,3 +2,10 @@
   border: 3px black solid;
   padding: 10px;
 }
+.very-serif {
+  background-color: #eee;
+  font-weight: bold;
+  font-size: 4em;
+  padding: 10px;
+  text-align: center;
+}
